@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @krantigauraviitian
-- 👀 I’m interested in learning pyhton
+- 👀 I’m interested in learning python
 - 🌱 I’m currently learning basics of python
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me 9716599345
